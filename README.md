@@ -1,1 +1,1 @@
-# online-coachin
+# online-coaching
